@@ -20,4 +20,4 @@
 Клонируйте репозиторий на свой локальный компьютер:
 
    ```bash
-   git clone ссылка_на_репозиторий
+   git clone [ссылка_на_репозиторий](https://github.com/SBerik/WebsiteWarehouse.git)https://github.com/SBerik/WebsiteWarehouse.git
