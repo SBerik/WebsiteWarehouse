@@ -1,0 +1,28 @@
+.grid {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-template-columns: repeat(2, 1fr);
+    height: 100%;
+}
+
+.container {
+    max-width: 1240px;
+    padding: 0 40px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.grid-3 {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.img-text-line { display: flex; align-items: center;} 
+.img-text-line img { vertical-align: middle;}
